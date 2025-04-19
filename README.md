@@ -1,4 +1,4 @@
-# Machine Learning 
+# 🤖 Machine Learning 
 
 Welcome to the **Machine Learning Repository**! 🚀 This repository contains various machine learning projects, algorithms, and implementations, covering fundamental concepts to advanced deep learning architectures.
 
